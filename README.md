@@ -1,4 +1,13 @@
 ### Hi there 👋
+It's nice to start something finally.
+I am Joachim, I write HTML, CSS, javascript, React, and NodeJS.
+
+My work ethic is based on commitment, responsibility, and attention to detail. I am a fast and willing learner and adapt easily to new environments and new people. 
+
+Here is my [linkedin profile]{https://www.linkedin.com/in/joachim-onyebuagu-bb46a91b4/}
+Looking forward to connecting more with you.
+
+
 
 <!--
 **joeniho/Joeniho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
